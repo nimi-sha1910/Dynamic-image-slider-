@@ -23,9 +23,9 @@ JavaScript
 
 Project Structure
 
-*index.html – Structure of the webpage
-*style.css – Styling and layout
-*script.js – JavaScript logic for the slider
+index.html – Structure of the webpage,
+style.css – Styling and layout,
+script.js – JavaScript logic for the slider
 
 Purpose of the Project
 
