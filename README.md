@@ -9,23 +9,23 @@ The Dynamic Image Slider is a front-end web project developed using HTML, CSS, a
 
 Features
 
-Automatic image sliding
-Smooth transition effects
-Manual navigation controls
-Responsive design
-Clean and simple interface
+*Automatic image sliding
+*Smooth transition effects
+*Manual navigation controls
+*Responsive design
+*Clean and simple interface
 
 Technologies Used
 
-HTML
-CSS
-JavaScript
+*HTML
+*CSS
+*JavaScript
 
 Project Structure
 
-index.html – Structure of the webpage
-style.css – Styling and layout
-script.js – JavaScript logic for the slider
+*index.html – Structure of the webpage
+*style.css – Styling and layout
+*script.js – JavaScript logic for the slider
 
 Purpose of the Project
 
